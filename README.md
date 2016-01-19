@@ -11,3 +11,6 @@ This app is a simple retail inventory management system, where user can CRUD pro
 - Framework: Spring 4.2.4
 - Database: H2
 - Test: JUnit
+
+## One more thing
+You can peek into the database by going to `localhost:8080/console`
