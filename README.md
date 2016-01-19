@@ -10,6 +10,7 @@ This app is a simple retail inventory management system, where user can CRUD pro
 - Java 1.8
 - Framework: Spring 4.2.4
 - Database: H2
+- ORM: Hibernate
 - Test: JUnit
 
 ## One more thing
